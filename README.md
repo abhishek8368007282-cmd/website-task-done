@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>The html file></title>
 <h1 align="center"><mark><i>JAI SHREE RAM</i></mark></h1>
 <h2 align="left"><a href="https://www.youtube.com/watch?v=irqbmMNs2Bo&t=806s"><button>Home</button></a>&emsp;|About&emsp;|&emsp;Contact</h2>
 </head>
